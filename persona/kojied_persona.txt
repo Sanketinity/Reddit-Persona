@@ -1,0 +1,34 @@
+--- User Persona for kojied ---
+
+**1. Demographics (Inferred)**
+
+*   **Age Range:** 28-35 years old.  This is inferred from the post about feeling "violated" by intern season in NYC [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/], suggesting they are old enough to have established a routine and preferences, yet young enough to still be relatively new to the city and experience some level of transient lifestyle.  The comments about millennial trends further support this [https://www.reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/].
+*   **Gender:** Male. This is inferred from the use of "man" in one comment [https://www.reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/] and the overall tone of the posts.  While not definitive, it's a strong indicator.
+*   **Location:** New York City, USA.  Explicitly stated in multiple posts [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/], and further supported by posts in r/AskNYC and r/NYCbike.
+*   **Occupation/Field of Study:**  Likely works in a tech-related field, given the extensive engagement in subreddits related to Apple Vision Pro development and the mention of using a Mac and potentially having experience with virtual reality development [https://www.reddit.com/r/VisionPro/, https://www.reddit.com/r/visionosdev/, https://www.reddit.com/r/AppleVisionPro/].  The comments about options trading and investments suggest a higher income bracket. [https://www.reddit.com/r/stocks/, https://www.reddit.com/r/options/, https://www.reddit.com/r/wallstreetbets/].
+
+**2. Key Interests & Hobbies**
+
+*   **Technology and VR/AR Development:**  A significant portion of kojied's activity centers around Apple's Vision Pro, including discussions on development, use cases, and future potential. [https://www.reddit.com/r/VisionPro/, https://www.reddit.com/r/visionosdev/, https://www.reddit.com/r/AppleVisionPro/].  They are actively involved in creating apps for the platform.
+*   **Gaming:**  Mentions of playing *Project Zomboid* and *Manor Lords* suggest an interest in video games. [https://www.reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/, https://www.reddit.com/r/ManorLords/].
+*   **Finance and Investing:**  Active participation in subreddits related to stocks, options trading, and Wall Street Bets indicates an interest in finance and investing. [https://www.reddit.com/r/stocks/, https://www.reddit.com/r/options/, https://www.reddit.com/r/wallstreetbets/].
+*   **New York City Culture:**  Posts in r/newyorkcity and r/AskNYC show an interest in NYC's nightlife, food scene, and general happenings. [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/, https://www.reddit.com/r/AskNYC/].
+*   **Anime and Japanese Culture:**  Comments referencing Japanese culture, language, and anime shows familiarity with these aspects. [https://www.reddit.com/r/OnePiece/, https://www.reddit.com/r/MadeInAbyss/,  https://www.reddit.com/r/AskHistorians/comments/1c7xcg9/deleted_by_user/l0b4nj7/].
+*   **Travel:** References to travel, both within the US and internationally, suggest an interest in exploring new places. [https://www.reddit.com/r/VisionPro/comments/1e1je8s/the_joy_of_flying_with_an_apple_vision_pro/,  https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/].
+*   **Plant Care:**  Posts in r/plantclinic indicate an interest in caring for houseplants. [https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/, https://www.reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/].
+
+**3. Personality & Communication Style**
+
+*   **Personality Traits:** Analytical, insightful (demonstrated by thoughtful posts and comments on various topics), curious (evidenced by asking many questions and exploring diverse interests), helpful (offers practical advice in several comments), opinionated but open-minded (willing to engage in discussions and consider different perspectives), somewhat cynical (as seen in comments on the state of certain industries).
+*   **Communication Style:** Casual, informal, often uses humor and self-deprecating humor.  Able to switch between technical language (in the Vision Pro discussions) and more casual, conversational language (in other subreddits).
+
+
+**4. Topics of Expertise / Frequent Discussion**
+
+*   **Apple Vision Pro Development and Applications:**  Demonstrates a high level of technical understanding and active involvement in the Vision Pro developer community.
+*   **Options Trading and Stock Market:**  Shows familiarity with financial markets and investment strategies.
+*   **City Life in New York:**  Provides insights and observations about life in New York City.
+
+**5. Summary Narrative**
+
+kojied is a likely male, aged 28-35, living in New York City and working in a tech-related field, possibly with a focus on software development or related areas given his expertise in the Apple Vision Pro ecosystem. He is highly engaged with technology and actively involved in creating applications for the Vision Pro platform. Besides tech, his interests are diverse, spanning gaming, investing, NYC culture, Japanese culture, and plant care. His communication style is casual yet insightful, reflecting an analytical and curious mind. He is helpful, offering advice and sharing knowledge across various subreddits. While opinionated, he demonstrates openness to different viewpoints and a willingness to engage in discussions.  His profile suggests a person who is both technically skilled and intellectually curious, with a blend of professional and personal interests that reflect a dynamic and engaged lifestyle in a bustling urban environment.
