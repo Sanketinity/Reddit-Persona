@@ -26,7 +26,7 @@ Create a `.env` file in the project root with the following variables:
 ```
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=your_user_agent  #user agent needs to be customized it, its not mention on reddit pref app page.
+REDDIT_USER_AGENT=your_user_agent  #user agent needs to be customized, its not mention on reddit pref app page.
 GOOGLE_API_KEY=your_google_api_key
 ```
 
